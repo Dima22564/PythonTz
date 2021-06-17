@@ -1,0 +1,11 @@
+language: python
+
+python:
+  - "3.6"
+
+script: 
+  - python prog.py
+  - python test.py test
+
+branch:
+  - "dev"
