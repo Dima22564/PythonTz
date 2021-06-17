@@ -7,3 +7,5 @@ script:
   - python prog.py
   - python test.py test
 
+branch:
+  - "dev"
